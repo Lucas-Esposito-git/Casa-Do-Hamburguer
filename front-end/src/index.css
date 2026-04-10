@@ -4,3 +4,18 @@
 body {
   font-family: "Sen", sans-serif;
 }
+#eml {
+  background-image: url(../public/iconeEmail_100x67.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  padding-right: 1.3em;
+  background-size: 4em;
+}
+
+#snh {
+  background-image: url(../public/iconeDoOlho_100x67.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  padding-right: 1.3em;
+  background-size: 4em;
+}
